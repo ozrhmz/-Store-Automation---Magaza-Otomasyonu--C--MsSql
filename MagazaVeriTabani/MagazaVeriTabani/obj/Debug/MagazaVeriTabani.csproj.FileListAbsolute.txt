@@ -1,0 +1,12 @@
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\bin\Debug\MagazaVeriTabani.exe.config
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\bin\Debug\MagazaVeriTabani.exe
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\bin\Debug\MagazaVeriTabani.pdb
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\obj\Debug\MagazaVeriTabani.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\obj\Debug\MagazaVeriTabani.Form1.resources
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\obj\Debug\MagazaVeriTabani.Properties.Resources.resources
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\obj\Debug\MagazaVeriTabani.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\obj\Debug\MagazaVeriTabani.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\obj\Debug\MagazaVeriTabani.exe
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\obj\Debug\MagazaVeriTabani.pdb
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\obj\Debug\MagazaVeriTabani.Form2.resources
+C:\Users\Hamza\source\repos\MagazaVeriTabani\MagazaVeriTabani\obj\Debug\MagazaVeriTabani.Form3.resources
